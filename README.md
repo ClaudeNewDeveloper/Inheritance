@@ -81,4 +81,7 @@ CollegeStudent ima = new CollegeStudent("Ima Frosh", 18, "F", "UCB123", 4.0, 1, 
 
 A sample run of the program would give:
 
-Coach Bob, age: 27, gender: M Lynne Brooke, age: 16, gender: F, student id: HS95129, gpa: 3.5 Duke Java, age: 34, gender: M, subject: Computer Science, salary: 50000.0 Ima Frosh, age: 18, gender: F, student id: UCB123, gpa: 4.0, year: 1, major: English
+Coach Bob, age: 27, gender: M 
+Lynne Brooke, age: 16, gender: F, student id: HS95129, gpa: 3.5 
+Duke Java, age: 34, gender: M, subject: Computer Science, salary: 50000.0 
+Ima Frosh, age: 18, gender: F, student id: UCB123, gpa: 4.0, year: 1, major: English
